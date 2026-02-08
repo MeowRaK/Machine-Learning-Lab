@@ -1,4 +1,4 @@
-# Choosing an Open properDataset
+# Choosing an Open Dataset
 
 For this lab, we selected an open tabular dataset containing housing data from Ames, Iowa. The dataset includes numerical and categorical features describing residential properties, such as lot size, neighborhood, house style, overall quality, and year built. The data is provided in CSV format and is suitable for predictive modeling.
 
