@@ -4,7 +4,7 @@
 
 For this lab, an open tabular dataset containing housing data from Ames, Iowa was selected. The dataset includes both numerical and categorical features describing residential properties, such as lot size, neighborhood, house style, overall quality, and year built. It is provided in CSV format and is suitable for predictive modeling.
 
-📊 Dataset: [Ames Housing Dataset (Kaggle)](https://www.kaggle.com/datasets/lespin/house-prices-dataset)
+📊 Dataset: [House Prices Dataset](https://www.kaggle.com/datasets/lespin/house-prices-dataset)
 
 ## Defining the Machine Learning Problem
 
@@ -14,4 +14,4 @@ This is a regression problem. The target variable is the house sale price, and t
 
 The dataset was loaded into a Jupyter Notebook using Pandas. The dataset’s shape was examined to determine the number of rows and columns, the first few rows were previewed, and the column names and data types were inspected to understand the structure of the data before preprocessing.
 
-📓 Notebook: [Lab2_Part3.ipynb](./Lab2_Part3.ipynb)
+📓 Notebook: [Jupyter Notebook](./Lab2_Part3.ipynb)
