@@ -15,3 +15,11 @@ This is a regression problem. The target variable is the house sale price, and t
 The dataset was loaded into a Jupyter Notebook using Pandas. The dataset’s shape was examined to determine the number of rows and columns, the first few rows were previewed, and the column names and data types were inspected to understand the structure of the data before preprocessing.
 
 📓 Notebook: [Jupyter Notebook](./Lab2_Part3.ipynb)
+
+## Part 4: Designing the Methodology Diagram
+
+A methodology diagram was created to visually represent the complete machine learning workflow for this project. The diagram outlines the process from problem definition and dataset selection to data preprocessing, model training, evaluation, and final results interpretation.  
+
+The workflow also includes an iterative evaluation step, where model performance is assessed and improvements can be made by refining data preprocessing before retraining the model.
+
+🖼️ Methodology Diagram: [Methodology Diagram.png](./Methodology%20Diagram.png)
