@@ -1,5 +1,5 @@
 
-# Lab 4: Data Preprocessing and PCA
+# Lab 4: Data Quality Assessment & Preprocessing
 
 **Name:** Rakan Albinsaad  
 **Section:** MY02  
