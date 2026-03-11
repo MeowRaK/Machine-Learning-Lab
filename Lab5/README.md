@@ -49,7 +49,7 @@ Run the optional **feature selection section** and explain whether it improved t
 
 ## Repository Files
 
-- [ARTI308 Lab5.ipynb](ARTI308%20Lab5.ipynb)  
+- [ARTI308_Lab5.ipynb](ARTI308_Lab5.ipynb)
   The main notebook containing the complete workflow including data inspection, feature engineering, model training, evaluation, and the student task solutions.
 
 - [talabat_enhanced_orders.csv](talabat_enhanced_orders.csv)  
