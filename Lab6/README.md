@@ -1,50 +1,58 @@
-# ARTI308 Lab 6 – Ecommerce Customers
+# Overview
+This repository contains the submission for ARTI 308 – Lab 6, which focuses on applying regression techniques to an Ecommerce Customers dataset.
 
-## Overview
-This lab applies machine learning concepts on a new dataset: **Ecommerce Customers**.  
-The goal is to build a predictive model to estimate how much a customer spends yearly based on their behavior.
+The objective of this lab is to build a machine learning model capable of predicting the yearly amount spent by a customer based on their behavior:
 
----
+- Avg. Session Length  
+- Time on App  
+- Time on Website  
+- Length of Membership  
 
-## Files Included
-- [`Ecommerce Customers`](./Ecommerce%20Customers)  
-  Dataset containing customer information and spending behavior.
-
-- [`ARTI308_Lab6_Ecommerce_Dataset.ipynb`](./ARTI308_Lab6_Ecommerce_Dataset.ipynb)  
-  Jupyter Notebook with the full workflow: data exploration, preprocessing, modeling, and evaluation.
+Since the dataset is already clean (no missing values or inconsistencies), the main focus of this lab is on data exploration, feature selection, and building a regression model.
 
 ---
 
-## Tasks Completed
-- Loaded the dataset into a DataFrame  
-- Explored the data using:
-  - `head()`
-  - `info()`
-  - `describe()`  
-- Performed basic data cleaning:
-  - Checked for missing values
-  - Removed irrelevant columns (`Email`, `Address`, `Avatar`)  
-- Applied feature selection (no complex feature engineering required)  
-- Prepared the data for modeling:
-  - Defined features (X) and target (y)
-  - Split into training and testing sets  
-- Trained a **Linear Regression** model  
-- Evaluated model performance using:
-  - Mean Absolute Error (MAE)
-  - Mean Squared Error (MSE)
-  - Root Mean Squared Error (RMSE)
-  - R² Score  
+# Lab Objectives
+The notebook performs the following steps:
+
+- Load the dataset into a DataFrame  
+- Explore the data using head, info, and describe  
+- Perform basic data cleaning  
+- Remove irrelevant columns (Email, Address, Avatar)  
+- Define the target variable (Yearly Amount Spent)  
+- Select appropriate features for modeling  
+- Split the data into training and testing sets  
+- Train a Linear Regression model  
+- Evaluate model performance using regression metrics  
 
 ---
 
-## Model Performance
-The Linear Regression model performed very well:
-- R² Score ≈ **0.98**
-- Low prediction error (RMSE ≈ 10)
+# Student Tasks
+Task 1:  
+Load the Ecommerce Customers dataset and explore its structure using head, info, and describe.
+
+Task 2:  
+Perform basic data cleaning and explain why non-relevant columns were removed.
+
+Task 3:  
+Prepare the dataset for modeling by defining features (X) and target variable (y), and splitting the data.
+
+Task 4:  
+Train a Linear Regression model and evaluate its performance using MAE, MSE, RMSE, and R².
 
 ---
 
-## Key Insights
-- **Length of Membership** is the strongest predictor of spending  
-- **Time on App** has more impact than **Time on Website**  
-- The dataset required minimal preprocessing  
+# Repository Files
+- `ARTI308_Lab6_Ecommerce_Dataset.ipynb`  
+  The main notebook containing the full workflow including data exploration, preprocessing, model training, and evaluation.
+
+- `Ecommerce Customers`  
+  The dataset used for the regression task, containing customer behavior and spending data.
+
+- `README.md`  
+  Documentation for this lab submission.
+
+---
+
+# Summary
+This lab demonstrates how Linear Regression can be used to predict customer spending based on behavioral data. The model achieves strong performance, with a high R² score indicating that the selected features effectively explain the variation in yearly spending. The results show that Length of Membership and Time on App are key factors influencing customer spending.
