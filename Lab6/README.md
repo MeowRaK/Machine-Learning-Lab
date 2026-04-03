@@ -10,7 +10,7 @@ The goal is to build a predictive model to estimate how much a customer spends y
 - [`Ecommerce Customers`](./Ecommerce%20Customers)  
   Dataset containing customer information and spending behavior.
 
-- [`ARTI308 Lab6 - Ecommerce Dataset.ipynb`](./ARTI308%20Lab6%20-%20Ecommerce%20Dataset.ipynb)  
+- [`ARTI308_Lab6_Ecommerce_Dataset.ipynb`](./ARTI308_Lab6_Ecommerce_Dataset.ipynb)  
   Jupyter Notebook with the full workflow: data exploration, preprocessing, modeling, and evaluation.
 
 ---
