@@ -43,13 +43,13 @@ Train a Linear Regression model and evaluate its performance using MAE, MSE, RMS
 ---
 
 # Repository Files
-- `ARTI308_Lab6_Ecommerce_Dataset.ipynb`  
+- [`ARTI308_Lab6_Ecommerce_Dataset.ipynb`](./ARTI308_Lab6_Ecommerce_Dataset.ipynb)  
   The main notebook containing the full workflow including data exploration, preprocessing, model training, and evaluation.
 
-- `Ecommerce Customers`  
+- [`Ecommerce Customers`](./Ecommerce%20Customers)  
   The dataset used for the regression task, containing customer behavior and spending data.
 
-- `README.md`  
+- [`README.md`](./README.md)  
   Documentation for this lab submission.
 
 ---
