@@ -5,7 +5,7 @@ This lab focuses on building a Logistic Regression model to predict whether a us
 ## 📂 Files
 
 - [advertising.csv](./advertising.csv) — Dataset used for training and testing the model  
-- [02-Logistic Regression Assignment.ipynb](./02-Logistic%20Regression%20Assignment.ipynb) — Jupyter Notebook containing the full implementation  
+- [02_Logistic_Regression_Assignment.ipynb](./02_Logistic_Regression_Assignment.ipynb) — Jupyter Notebook containing the full implementation  
 
 ---
 
