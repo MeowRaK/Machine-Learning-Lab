@@ -5,7 +5,7 @@ This lab focuses on implementing and evaluating the K-Nearest Neighbors (KNN) al
 ## Files
 
 * [KNN_Project_Data](./KNN_Project_Data)
-* [02-K Nearest Neighbors Assignment.ipynb](./02-K%20Nearest%20Neighbors%20Assignment.ipynb)
+* [02_K_Nearest_Neighbors_Assignment.ipynb](./02_K_Nearest_Neighbors_Assignment.ipynb)
 
 ## Overview
 
