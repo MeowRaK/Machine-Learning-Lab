@@ -22,7 +22,7 @@ The notebook covers the full SVM workflow, including:
 
 ## 📂 Files
 
-* [02-SVM_Assignment Solved.ipynb](./02-SVM_Assignment%20Solved.ipynb)
+* [02_SVM_Assignment_Solved.ipynb](./02_SVM_Assignment_Solved.ipynb)
 
 ## 🛠 Technologies Used
 
