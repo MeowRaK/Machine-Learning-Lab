@@ -26,7 +26,7 @@ The notebook includes:
 
 # 📂 Files
 
-- [02-Credit Card Customer Segmentation Assignment.ipynb](./02-Credit%20Card%20Customer%20Segmentation%20Assignment.ipynb)
+- [02-Credit_Card_Customer_Segmentation_Assignment.ipynb](./02-Credit_Card_Customer_Segmentation_Assignment.ipynb)
 - [CC_GENERAL.csv](./CC_GENERAL.csv)
 
 ---
